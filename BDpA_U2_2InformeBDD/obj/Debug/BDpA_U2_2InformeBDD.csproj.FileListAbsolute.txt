@@ -1,0 +1,13 @@
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\bin\Debug\BDpA_U2_2InformeBDD.exe.config
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\bin\Debug\BDpA_U2_2InformeBDD.exe
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\bin\Debug\BDpA_U2_2InformeBDD.pdb
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\bin\Debug\MySql.Data.dll
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\bin\Debug\MySql.Data.xml
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\obj\Debug\BDpA_U2_2InformeBDD.Form1.resources
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\obj\Debug\BDpA_U2_2InformeBDD.Properties.Resources.resources
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\obj\Debug\BDpA_U2_2InformeBDD.csproj.GenerateResource.Cache
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\obj\Debug\BDpA_U2_2InformeBDD.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\obj\Debug\BDpA_U2_2InformeBDD.exe
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\obj\Debug\BDpA_U2_2InformeBDD.pdb
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\obj\Debug\BDpA_U2_2InformeBDD.csproj.ResolveComReference.cache
+C:\Users\ibrah\source\repos\BDpA_U2_2InformeBDD\BDpA_U2_2InformeBDD\obj\Debug\BDpA_U2_2InformeBDD.csprojResolveAssemblyReference.cache
