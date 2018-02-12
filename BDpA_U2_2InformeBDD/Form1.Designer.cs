@@ -32,7 +32,6 @@
             this.btnGenerarExcel = new System.Windows.Forms.Button();
             this.btnGenerarHtml = new System.Windows.Forms.Button();
             this.spmostrar_ReporteTableAdapter = new System.Windows.Forms.DataGridView();
-            this.btnClear = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.spmostrar_ReporteTableAdapter)).BeginInit();
             this.SuspendLayout();
             // 
@@ -77,23 +76,12 @@
             this.spmostrar_ReporteTableAdapter.Size = new System.Drawing.Size(561, 231);
             this.spmostrar_ReporteTableAdapter.TabIndex = 3;
             // 
-            // btnClear
-            // 
-            this.btnClear.Location = new System.Drawing.Point(515, 279);
-            this.btnClear.Name = "btnClear";
-            this.btnClear.Size = new System.Drawing.Size(58, 21);
-            this.btnClear.TabIndex = 4;
-            this.btnClear.Text = "Clear";
-            this.btnClear.UseVisualStyleBackColor = true;
-            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(752, 312);
-            this.Controls.Add(this.btnClear);
             this.Controls.Add(this.spmostrar_ReporteTableAdapter);
             this.Controls.Add(this.btnGenerarHtml);
             this.Controls.Add(this.btnGenerarExcel);
@@ -112,8 +100,7 @@
         private System.Windows.Forms.Button btnGenerar;
         private System.Windows.Forms.Button btnGenerarExcel;
         private System.Windows.Forms.Button btnGenerarHtml;
-        private System.Windows.Forms.DataGridView spmostrar_ReporteTableAdapter;
-        private System.Windows.Forms.Button btnClear;
+        public System.Windows.Forms.DataGridView spmostrar_ReporteTableAdapter;
     }
 }
 
